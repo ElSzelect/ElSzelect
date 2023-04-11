@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Currently i'm looking up for job
+Learning new skills for Backend develop improvement
+Looking to collaborate on a good proyect
+
+
 <!--
 **ElSzelect/ElSzelect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
