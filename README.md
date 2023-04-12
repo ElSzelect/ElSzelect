@@ -11,6 +11,8 @@ typescript, bcrypt, cloudinary, express, jsonwebtoken, mercadopago, morgan, node
 sequelize. Database: Postgres. Tools:Git, Postman, Slack, Vscode, ChatGTP, Trello, Photoshop. Agile:
 Scrum, Kanban.
 
+🌎 Linkedin: https://www.linkedin.com/in/szelect/
+📧 Email: ivanszelect@gmail.com
 
 
 <!--
