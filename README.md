@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-Currently i'm looking up for job
-Learning new skills for Backend develop improvement
-Looking to collaborate on a good proyect
+⚡ FullStack Web Developer | BackEnd Dev |
+
+🔭 Currently i'm looking up for job.
+🌱 Learning new skills for Backend develop improvement.
+👯 Looking to collaborate on a good proyect.
+
+💻Programming languages: Javascript, SQL, CSS Framework tools:axios, react, bootstrap, redux, sass,
+typescript, bcrypt, cloudinary, express, jsonwebtoken, mercadopago, morgan, nodemon, passport,
+sequelize. Database: Postgres. Tools:Git, Postman, Slack, Vscode, ChatGTP, Trello, Photoshop. Agile:
+Scrum, Kanban.
+
 
 
 <!--
