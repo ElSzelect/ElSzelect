@@ -6,7 +6,7 @@
 🌱 Learning new skills for Backend develop improvement.
 👯 Looking to collaborate on a good proyect.
 
-💻Programming languages: Javascript, SQL, CSS Framework tools:axios, react, bootstrap, redux, sass,
+💻Programming languages: Javascript, Typescript, SQL, CSS Framework tools:axios, Tailwind, React.js, Next.js, bootstrap, redux, sass,
 typescript, bcrypt, cloudinary, express, jsonwebtoken, mercadopago, morgan, nodemon, passport,
 sequelize. Database: Postgres. Tools:Git, Postman, Slack, Vscode, ChatGTP, Trello, Photoshop. Agile:
 Scrum, Kanban.
